@@ -3,12 +3,13 @@
   <groupId>net.abs.color.sdk.pro</groupId>
   <artifactId>AbsSdkPro</artifactId>
   <versioning>
-    <release>2.2.8</release>
+    <release>2.2.9</release>
     <versions>
       <version>2.2.6</version>
       <version>2.2.7</version>
       <version>2.2.8</version>
+      <version>2.2.9</version>
     </versions>
-    <lastUpdated>20211103075241</lastUpdated>
+    <lastUpdated>20211129031404</lastUpdated>
   </versioning>
 </metadata>
